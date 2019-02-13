@@ -1,0 +1,14 @@
+{
+  "name": "zodiacwebp",
+  "version": "1.0.0",
+  "description": "package, which show your zodiac sign depending your date of birth",
+  "main": "index.js",
+  "repository": "https://github.com/artur-nikitsin/webpack_z",
+  "author": "artur_nikitsin",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3"
+  }
+}
